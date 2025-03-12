@@ -167,9 +167,3 @@ The motherboard will be called a "Baseboard."
 The GPU will be called a "Display Adapter."
 Once you find either of those, just search the internet for those model numbers to find your drivers.
 **Always get drivers from the part manufacturer's website.**
-
-##### Using Winget Package Manager
-A package manager is a centralized repository of software, like mobile app stores, or Linux package managers. The main benefit is that you can upgrade all of your software at once, and you have a greatly decreased chance of downloading a fake version of the software you're trying to install.
-Package managers are already standard practice on Linux, while on Windows, you have to manually check each application that doesn't have its own auto-update feature.
-
-However, Windows *does* have an official and widely used package manager, [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/), which can pull apps from both the winget package repository and the Microsoft store.
