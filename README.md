@@ -1,6 +1,6 @@
 
 # Hey, you want to "debloat Windows?"
-##### The best program is no program. Any tool you find on the internet that claims to increase performance with the click of a button is either lying or will relentlessly butcher your system. Understanding your computer and its needs will lead to you maintaining a much healthier software environment. In following this document, a slight performance increase will just be a side effect of the massive improvements you will make to your software environment. 
+The best program is no program. Any tool you find on the internet that claims to increase performance with the click of a button is either lying or will relentlessly butcher your system. Understanding your computer and its needs will lead to you maintaining a much healthier software environment. In following this document, a slight performance increase will just be a side effect of the massive improvements you will make to your software environment. 
 
 If you are searching for performance, you will find it much more effective to upgrade your hardware. However, that is not possible for many people. I believe this is why people turn to destructive software modifications.
 
